@@ -1,7 +1,7 @@
 # VR-Observatory
 Building a VR observatory for Giant Magellan Telescope
 
-#This is WIP
+# This is WIP
 
 
 # What is the Giant Magellan Telescope (GMT)?
