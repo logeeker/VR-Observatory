@@ -14,6 +14,7 @@ Building a VR observatory for Giant Magellan Telescope
 ### Tools:
 Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
 * We use trello to make plans and to keep track of our progress.
+
 Communication: [Discord](https://discord.gg/VTyjpGq "TechLauncher VR Observatory")
 * Discord is used for communication not only within the team, but also with the stakeholders.
 
