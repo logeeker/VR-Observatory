@@ -4,18 +4,12 @@ Building a VR observatory for Giant Magellan Telescope
 # This is WIP
 
 ## Team:
-..* Seng Cheong Song - u5767037
-..* Min Liu - u6339307
-..* Lifu Zhao - u6534756
-..* Yu Yang - u6412985
-..* Wenrui Li - u6361099
-..* Zhen Yu Zhao - u6210785
-
-
-
-
-
-
+⋅⋅* Seng Cheong Song - u5767037
+⋅⋅* Min Liu - u6339307
+⋅⋅* Lifu Zhao - u6534756
+⋅⋅* Yu Yang - u6412985
+⋅⋅* Wenrui Li - u6361099
+⋅⋅* Zhen Yu Zhao - u6210785
 
 ## What is the Giant Magellan Telescope (GMT)?
 >The Giant Magellan Telescope will be one member of the next class of giant ground-based telescopes that promises to revolutionize our view and understanding of the universe. It will be constructed in the Las Campanas Observatory in Chile. Commissioning of the telescope is scheduled to begin in 2024.
