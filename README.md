@@ -24,7 +24,7 @@ Documenting: [Google Drive](https://drive.google.com/open?id=1i6sF93Loz_3rUczXJP
 * We use Google Drive to host our documentation
 
 File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for access")
-* Email Seng to gain access
+* Email Seng for access
 * We also use Google Drive to host our files
 * This Repository won't be made publicly available because of the copyright issues
 
