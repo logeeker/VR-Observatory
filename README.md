@@ -12,7 +12,11 @@ Building a VR observatory for Giant Magellan Telescope
 * Zhen Yu Zhao - u6210785
 
 ### Tools:
-Trello: [VR Observatory](https://trello.com/b/b96tWd05/vr-observatory "Trello")
+Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
+* We use trello to make plans and to keep track of our progress.
+Communication: [Discord](https://discord.gg/VTyjpGq "TechLauncher VR Observatory")
+* Discord is used for communication not only within the team, but also with the stakeholders.
+
 
 ### What is the Giant Magellan Telescope (GMT)?
 >The Giant Magellan Telescope will be one member of the next class of giant ground-based telescopes that promises to revolutionize our view and understanding of the universe. It will be constructed in the Las Campanas Observatory in Chile. Commissioning of the telescope is scheduled to begin in 2024.
