@@ -20,6 +20,14 @@ Communication: [Discord](https://discord.gg/VTyjpGq "TechLauncher VR Observatory
 * We use Discord to have communication within the team
 * People outside our team including our stakeholder, shadows, and anyone who is interested in our project can also reach us easily
 
+Documenting: [Google Drive](https://drive.google.com/open?id=1i6sF93Loz_3rUczXJP7vv6xwW43V2_dm "TechLauncher VR Observatory")
+* We use Google Drive to host our documentation
+
+File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for access")
+* Email Seng to gain access
+* We also use Google Drive to host our files
+* This Repository won't be made publicly available because of the copyright issues
+
 
 ### What is the Giant Magellan Telescope (GMT)?
 >The Giant Magellan Telescope will be one member of the next class of giant ground-based telescopes that promises to revolutionize our view and understanding of the universe. It will be constructed in the Las Campanas Observatory in Chile. Commissioning of the telescope is scheduled to begin in 2024.
