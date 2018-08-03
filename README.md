@@ -3,7 +3,7 @@ Building a VR observatory for Giant Magellan Telescope
 
 # This is WIP
 
-## Team:
+### Team:
 * Seng Cheong Song - u5767037
 * Min Liu - u6339307
 * Lifu Zhao - u6534756
