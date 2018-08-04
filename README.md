@@ -10,6 +10,7 @@ Building a VR observatory for Giant Magellan Telescope
 * Yu Yang - u6412985
 * Wenrui Li - u6361099
 * Zhen Yu Zhao - u6210785
+* Taizhou Wang - u6273306
 
 ### Tools:
 Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
