@@ -75,8 +75,19 @@ They also prefer to have following features:
 * Backgourd sounds
 * Tour with narration
 
+### Project Milestones
+Week | Goal
+--- | --- 
+4 | Conversion of models from .SLDPRT format
+6 | Establishment of Unity Scene
+7 | Movement
+8 | Animation of the telescope
+10 | Completion of Texturing
+10 | Reduction of polygons
+12 | Finalizing
+
 ### Constraints:
-* The team is inexperienced with VR video game design.
+* The team is inexperienced with VR video game design
 * There's only one computer that has the license of Solidworks
 
 
