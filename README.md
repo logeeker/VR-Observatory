@@ -58,6 +58,22 @@ GMTO is likely to showcase the product to politicians who might support them, po
 #### For Users
 Users can explore GMT will ahead of the completion of the acutal telescope.
 
+### Expectations
+This project is about building a VR video game. Tony and GMTO expect us to perform following tasks:
+* Simplify models, check geometry
+* Add materials, textures, reflection, colours
+* Animate the telescope (tilt, rotation, open/close shutters)
+* Impelemente a flying mode with collision disabled
+* Impelemente a walking mode with proper collision
+They also prefer to have following features:
+Outdoor Scenery
+Lasers during nighttime
+Cars and trucks parked for scale
+People for scale
+Mirror Cell assembly mode
+Backgourd sounds
+Tour with narration
+
 ### Constraints:
 * The team is inexperienced with VR video game design.
 * There's only one computer that has the license of Solidworks
