@@ -27,6 +27,13 @@ File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for acces
 * We also use Google Drive to host our files
 * This Repository won't be made publicly available because of the copyright issues
 
+### Tools:
+* Solidworks
+* Meshlab
+* Blender
+* Unity3D
+* Unreal (Possible)
+
 
 ### Vision
 >The Giant Magellan Telescope will be one member of the next class of giant ground-based telescopes. It will be constructed in the Las Campanas Observatory in Chile. Commissioning of the telescope is scheduled to begin in 2024.
