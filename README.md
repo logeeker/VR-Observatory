@@ -12,7 +12,7 @@ Building a VR observatory for Giant Magellan Telescope
 * Zhen Yu Zhao - u6210785
 * Taizhou Wang - u6273306
 
-### Tools:
+### Management:
 Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
 * We use Trello to make plans
 * Trello keeps track of our progress
@@ -49,7 +49,7 @@ GMTO Corporation is in charge of the construction and the operation of the actua
 Users are the people who use our product to experience the GMT with a VR headset.
 
 ### Delivering Values:
-#### For Tony and RSAA:
+#### For Tony and RSAA
 The final product of this project will be counted as the contribution of RSAA. Since GMTO will assess the contributions of each parties (RSAA is one of them) and will split the usage of the GMT to each parties according to their contributions, the product can potentially gain valuable advantage for Australian astronomers. RSAA may also use the product as a way to promote themselves.
 
 #### For GMTO
@@ -57,6 +57,10 @@ GMTO is likely to showcase the product to politicians who might support them, po
 
 #### For Users
 Users can explore GMT will ahead of the completion of the acutal telescope.
+
+### Constraints:
+* The team is inexperienced with VR video game design.
+* There's only one computer that has the license of Solidworks
 
 
 
