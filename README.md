@@ -81,7 +81,7 @@ Week | Goal
 7 | Movement
 8 | Animation of the telescope
 10 | Completion of Texturing
-10 | Reduction of polygons
+11 | Optimizing performance
 12 | Finalizing
 
 ### Constraints
