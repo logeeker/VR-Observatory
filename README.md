@@ -1,8 +1,6 @@
 # VR-Observatory
 Building a VR observatory for Giant Magellan Telescope
 
-# This is WIP
-
 ### Team:
 * Seng Cheong Song - u5767037
 * Min Liu - u6339307
@@ -86,9 +84,14 @@ Week | Goal
 10 | Reduction of polygons
 12 | Finalizing
 
-### Constraints:
+### Constraints
 * The team is inexperienced with VR video game design
 * There's only one computer that has the license of Solidworks
 
+### Risks
+* Not able to meet the performance requirment at the end
+* Leaking the sensitive 3D models to the outsiders
 
-
+### Costs
+* Solidworks license fee - paid by Tony
+* Transportation - paid by team members if it's not free
