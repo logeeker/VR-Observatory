@@ -36,27 +36,27 @@ File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for acces
 Our goal is to recreate the observatory in a Virtual Reality world. This software allows users to experience the observatory with a VR headset before the completion of the construction of the GMT. It can be used not only for promotion purpose but also as a tool to validate the design.
 
 ### Key Stakeholders
-Dr Tony Travouillon
-* Tony is the director of our project and represents the interest of RSAA. He provides valuable inputs to our team, such as reqirements and some technical solutions. He also helps the team by coordinating resources and managing the communication of important personals. Meetings in person between the team and Tony are planned fortnightly. He will eventually takes control of the project after completion or at the end of the semester.
+#### Dr Tony Travouillon
+Tony is the director of our project and represents the interest of RSAA. He provides valuable inputs to our team, such as reqirements and some technical solutions. He also helps the team by coordinating resources and managing the communication of important personals. Meetings in person between the team and Tony are planned fortnightly. He will eventually takes control of the project after completion or at the end of the semester.
 
-Research School of Astronomy & Astrophysics (RSAA)
-* RSAA owns our project. They provides us the places and the computers that we need to work on this project. After the completion of the project, they will give it to GMTO as the contribution of RSAA.
+#### Research School of Astronomy & Astrophysics (RSAA)
+RSAA owns our project. They provides us the places and the computers that we need to work on this project. After the completion of the project, they will give it to GMTO as the contribution of RSAA.
 
-GMTO Corporation
-* GMTO Corporation is in charge of the construction and the operation of the actual Giant Magellan Telescope in the real world. They provides us highly accurated 3D models of the telescope.
+#### GMTO Corporation
+GMTO Corporation is in charge of the construction and the operation of the actual Giant Magellan Telescope in the real world. They provides us highly accurated 3D models of the telescope.
 
-Users
-* Users are the people who use our product to experience the GMT with a VR headset.
+#### Users
+Users are the people who use our product to experience the GMT with a VR headset.
 
 ### Delivering Values:
-For Tony and RSAA:
-* The final product of this project will be counted as the contribution of RSAA. Since GMTO will assess the contributions of each parties (RSAA is one of them) and will split the usage of the GMT to each parties according to their contributions, the product can potentially gain valuable advantage for Australian astronomers. RSAA may also use the product as a way to promote themselves.
+#### For Tony and RSAA:
+The final product of this project will be counted as the contribution of RSAA. Since GMTO will assess the contributions of each parties (RSAA is one of them) and will split the usage of the GMT to each parties according to their contributions, the product can potentially gain valuable advantage for Australian astronomers. RSAA may also use the product as a way to promote themselves.
 
-For GMTO
-* GMTO is likely to showcase the product to politicians who might support them, potential donor, and anyone who might be interested in GMT as a method to promote themselves. They might also use the product as a way to validate their design of GMT, such as the process of evacuation under emergency situation and logistics in general.
+#### For GMTO
+GMTO is likely to showcase the product to politicians who might support them, potential donor, and anyone who might be interested in GMT as a method to promote themselves. They might also use the product as a way to validate their design of GMT, such as the process of evacuation under emergency situation and logistics in general.
 
-For Users
-* Users can explore GMT will ahead of the completion of the acutal telescope.
+#### For Users
+Users can explore GMT will ahead of the completion of the acutal telescope.
 
 
 
