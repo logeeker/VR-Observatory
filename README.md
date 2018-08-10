@@ -65,14 +65,15 @@ This project is about building a VR video game. Tony and GMTO expect us to perfo
 * Animate the telescope (tilt, rotation, open/close shutters)
 * Impelemente a flying mode with collision disabled
 * Impelemente a walking mode with proper collision
+
 They also prefer to have following features:
-Outdoor Scenery
-Lasers during nighttime
-Cars and trucks parked for scale
-People for scale
-Mirror Cell assembly mode
-Backgourd sounds
-Tour with narration
+* Outdoor Scenery
+* Lasers during nighttime
+* Cars and trucks parked for scale
+* People for scale
+* Mirror Cell assembly mode
+* Backgourd sounds
+* Tour with narration
 
 ### Constraints:
 * The team is inexperienced with VR video game design.
