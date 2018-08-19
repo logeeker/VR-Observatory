@@ -102,3 +102,8 @@ Week | Goal
 ### Costs
 * Solidworks license fee - paid by Tony
 * Transportation - paid by team members if it's not free
+
+### Project Artefacts
+* Meeting Notes(https://drive.google.com/drive/folders/1MEXEly6Cfp3RRHAZ7D2QieKS_ribvz60)
+* Tutorial Notes (https://drive.google.com/drive/folders/1D2_nhiIEvt--jTButtrnbDbQWjSf-tK1)
+* Client Notes (https://drive.google.com/drive/folders/11pILGl-u_sZ7EmBm4O7iB2B6F-MvDwkM)
