@@ -48,16 +48,16 @@ File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for acces
 * Client Notes (https://drive.google.com/drive/folders/11pILGl-u_sZ7EmBm4O7iB2B6F-MvDwkM)
 
 ## KEY STAKEHOLDERS
-1. Dr Tony Travouillon
+### Dr Tony Travouillon
 Tony is the director of our project and represents the interest of RSAA. He provides valuable inputs to our team, such as reqirements and some technical solutions. He also helps the team by coordinating resources and managing the communication of important personals. Meetings in person between the team and Tony are planned fortnightly. He will eventually takes control of the project after completion or at the end of the semester.
 
-2. Research School of Astronomy & Astrophysics (RSAA)
+### Research School of Astronomy & Astrophysics (RSAA)
 RSAA owns our project. They provides us the places and the computers that we need to work on this project. After the completion of the project, they will give it to GMTO as the contribution of RSAA.
 
-3. GMTO Corporation
+### GMTO Corporation
 GMTO Corporation is in charge of the construction and the operation of the actual Giant Magellan Telescope in the real world. They provides us highly accurated 3D models of the telescope.
 
-4. Users
+### Users
 Users are the people who use our product to experience the GMT with a VR headset.
 
 ## TEAM EXPECTATIONS
