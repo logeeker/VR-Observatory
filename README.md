@@ -1,6 +1,8 @@
-# VR-Observatory
-Building a VR observatory for Giant Magellan Telescope
+# Audit Landing Page
+# VR-Observatory Team
 
+### CLIENT VISION
+Building a VR observatory for Giant Magellan Telescope
 ### Team:
 * Seng Cheong Song - u5767037
 * Min Liu - u6339307
