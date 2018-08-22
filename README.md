@@ -46,6 +46,7 @@ File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for acces
 * Meeting Notes(https://drive.google.com/drive/folders/1MEXEly6Cfp3RRHAZ7D2QieKS_ribvz60)
 * Tutorial Notes (https://drive.google.com/drive/folders/1D2_nhiIEvt--jTButtrnbDbQWjSf-tK1)
 * Client Notes (https://drive.google.com/drive/folders/11pILGl-u_sZ7EmBm4O7iB2B6F-MvDwkM)
+* Team members (https://docs.google.com/document/d/1XXsPXXi1cnyj7JQd_063rteS05-5SGZM1a8oHB1HGJ0/edit)
 
 ## KEY STAKEHOLDERS
 ### Dr Tony Travouillon
