@@ -94,10 +94,17 @@ Users can explore GMT will ahead of the completion of the acutal telescope.
 ## DELIVERABLES
 
 ## PROJECT OUTPUT (WEEK 4)
+1. Converted part of the models into Unity.
+2. Added a door-open animation to the model.
+3. Found the other assets for the external environment. (Grass, tree) (need to be improved)
+4. Used a demo to test the LOD group.
+The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTzoo-Kluq5JwEL2FNu)
 
 ## DECISION MAKING PROCESS
+Decision making log: (https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM)
 
 ## FEEDBACK FROM CLIENT/TUTOR
+Feedback folder: (https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
 ## TEAM WORK
 
