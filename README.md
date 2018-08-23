@@ -14,12 +14,6 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 * Zhen Yu Zhao - u6210785
 * Taizhou Wang - u6273306
 
-#### CLIENT
-Our client for this project is Tony Travouillon.
-
-#### TUTOR
-Our tutor is Mike Jia.
-
 #### TOOLS
 Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
 * We use Trello to make plans
@@ -34,6 +28,9 @@ Documenting: [Google Drive](https://drive.google.com/open?id=1i6sF93Loz_3rUczXJP
 
 File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for access")
 * Email Seng for access
+
+### What have we done since Audit 1
+WIP
 
 ### DEVELOPING TOOLS
 * Solidworks
