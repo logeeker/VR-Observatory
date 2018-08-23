@@ -1,5 +1,4 @@
-# Audit Landing Page
-### VR-Observatory Team
+# *Audit Landing Page* VR-Observatory Team
 
 ### CLIENT VISION
 >The Giant Magellan Telescope will be one member of the next class of giant ground-based telescopes. It will be constructed in the Las Campanas Observatory in Chile. Commissioning of the telescope is scheduled to begin in 2024.
