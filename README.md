@@ -18,7 +18,7 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 Our client for this project is Tony Travouillon.
 
 #### TUTOR
-Our tutor for this semester is Mike Jia.
+Our tutor is Mike Jia.
 
 #### TOOLS
 Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
