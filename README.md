@@ -33,6 +33,7 @@ Documenting: [Google Drive](https://drive.google.com/open?id=1i6sF93Loz_3rUczXJP
 * We use Google Drive to host our documentation
 
 File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for access")
+* Email Seng for access
 
 ### DEVELOPING TOOLS
 * Solidworks
