@@ -14,7 +14,7 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 * Zhen Yu Zhao - u6210785
 * Taizhou Wang - u6273306
 
-#### TOOLS
+### TOOLS
 Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
 * We use Trello to make plans
 * Trello keeps track of our progress
@@ -30,6 +30,30 @@ File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for acces
 * Email Seng for access
 
 ### What have we done since Audit 1
+WIP
+
+#### Seng Song
+WIP
+
+#### Min Liu
+WIP
+
+#### Lifu Zhao
+WIP
+
+#### Yu Yang
+WIP
+
+#### Wenrui Li
+WIP
+
+#### Zhen Yu Zhao
+WIP
+
+#### Taizhou Wang
+WIP
+
+#### Future Planing
 WIP
 
 ### DEVELOPING TOOLS
