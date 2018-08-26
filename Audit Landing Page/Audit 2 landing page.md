@@ -30,6 +30,11 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 
 ### TECHNICAL ARTEFACTS
 
+## Model
+
+## Test Data
+
+## Prototype
 
 ### PROJECT OUTPUT (SINCE WEEK 3)
 1. Converted part of the models into Unity.
