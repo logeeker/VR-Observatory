@@ -39,7 +39,7 @@ Before the implementation of the model, our group apply for use-case model to ca
 ### PROTOTYPE
 As seen in the video, our group have implemented two shutters, main entrance door opening and closing and main camera controling.
 
-* Prototype link: https://drive.google.com/drive/folders/1edkMu-ZuHCHjGErq0ATQILH9dkkKilvC
+* Prototype link: https://drive.google.com/open?id=1U_Vyd_W7YGodX0voeSHBq56HqtFn4b63
 
 ## PROJECT OUTPUT (SINCE WEEK 3)
 
