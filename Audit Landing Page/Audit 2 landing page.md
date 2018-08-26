@@ -40,8 +40,6 @@ As seen in the video, our group have implemented two shutters, main entrance doo
 
 Prototype link: https://drive.google.com/drive/folders/1edkMu-ZuHCHjGErq0ATQILH9dkkKilvC
 
-### SOURCE CODE
-
 ## PROJECT OUTPUT (SINCE WEEK 3)
 
 ### ROLE DISTRIBUTION
@@ -50,7 +48,8 @@ Since we did not have a role distribution before the audit 1, we found that the 
 The role distribution was based on the skills and preferences of each member. We also allocated each member a management task in order to reduce the documentation workload of the notetaker.
 
 The distribution of technical and management role are as follows.
-
+![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Technical%20task.png)
+![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Management%20task.png)
 
 ### Scene Layout 
 The arrangement of the observatory scene should be as close as possible to the vision, and the harmony of these matches should be guaranteed. Thus, we select the scene of 11am and 7pm around the observatory and apply for Unity to construct the scenery. Up to now, our group has finished the design of tree, glass, rise and fall of the sun. In the next stage of the project, our group will try to arrange and add decorating assets in the scene. 
