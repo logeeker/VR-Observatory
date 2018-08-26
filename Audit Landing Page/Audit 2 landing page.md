@@ -86,7 +86,7 @@ main models file format using 3DMAX, and we reduce polygons for one model (Shutt
 * Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
 
 ## DECISION MAKING PROCESS
-Decision making log: (https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM)
+Decision making log: (https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l)
 
 ## FEEDBACK FROM CLIENT/TUTOR
 We collected and documented the feedback from the shadow team and tutor, mainly from the audit feedback. Based on those feedback, we created some documents, linked above. The actional feedback can be found in the next part. More detail about the feedback can be find in the link.(https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
