@@ -89,7 +89,7 @@ main models file format using 3DMAX, and we reduce polygons for one model (Shutt
 Decision making log: (https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM)
 
 ## FEEDBACK FROM CLIENT/TUTOR
-Feedback folder: (https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
+We collected and documented the feedback from the shadow team and tutor, mainly from the audit feedback. Based on those feedback, we created some documents, linked above. The actional feedback can be found in the next part. More detail about the feedback can be find in the link.(https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
 ## ACTING ON FEEDBACK FROM AUDIT ONE
 After first audit, some problems have be pointed by shadow team and tutor. Our team record feedback and made changes to improve our project developing process. Based on those feedback,our team made changes listed at below.
