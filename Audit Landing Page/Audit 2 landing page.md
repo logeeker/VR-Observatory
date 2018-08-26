@@ -45,23 +45,30 @@ Prototype link: https://drive.google.com/drive/folders/1edkMu-ZuHCHjGErq0ATQILH9
 ## PROJECT OUTPUT (SINCE WEEK 3)
 
 ### ROLE DISTRIBUTION
-Since we did not have a role distribution before the audit 1, we found that the group work was not efficient without a division. We considered two different distribution plans. The first was to split the whole group into two small groups. One group dealt with the model in Solidworks, the other added animation and collision to the models by using Unity. The second one was to allocate each memeber a role and work in parallel. 
+Since we did not have a role distribution before the audit 1, we found that the group work was not efficient without a division. We considered two different distribution plans. The first was to split the whole group into two small groups. One group dealt with the model in Solidworks, the other added animation and collision to the models by using Unity. The second one was to allocate each member a role and work in parallel. After comparing these two plans, we chose the latter one to ensure everyone has a relative same workload. 
 
-### ROLE DISTRIBUTION
-## Scene Layout
+The role distribution was based on the skills and preferences of each member. We also allocated each member a management task in order to reduce the documentation workload of the notetaker.
+
+The distribution of technical and management role are as follows.
+
+
+### Scene Layout 
 The arrangement of the observatory scene should be as close as possible to the vision, and the harmony of these matches should be guaranteed. Thus, we select the scene of 11am and 7pm around the observatory and apply for Unity to construct the scenery. Up to now, our group has finished the design of tree, glass, rise and fall of the sun. In the next stage of the project, our group will try to arrange and add decorating assets in the scene. 
 
-
-## Trigger Making
+### Trigger Making
 In the real world, it is easy for a player to open the door, enter into the building and take the elevator to whatever levels of the floor. However, in the model, there must be a trigger to listen the player’s instructions and provide related animation. Currently, our group has implemented the door trigger. In the next stage of the project, we will add more triggers into the project.  
 
-## Model Transformation
+### Model Transformation
 Our group based on the “Iterative Model” to process the Model Transformation. Since we have been stuck in file extension issue for two weeks, up to now, we only have finished the implementation of a core model. In the next stage of the project, we are supposed to concentrate on model transformation and complete it by the end of week 7. 
 
-1. Converted part of the models into Unity.
-2. Added a door-open animation to the model.
-4. Used a demo to test the LOD group.
-The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTzoo-Kluq5JwEL2FNu)
+### LOD group demo
+By searching for some resources, the Level of Detail (LOD) group was considered as an optimization method. LOD means the complexity of a model will decrease when it move away from the viewer. Since each member worked in parallel, the optimization cannot be tested on the project model without other functions. Currently, Min has made a demo to test the effect of LOD group. Three models were added in a LOD group. This optimization method will be used in the project model this week.
+
+### Door and shutter Animation
+Our client required us to add some animations to the models, like the opening and closing of the door. Due to the component renaming issue, Lifu has only worked on parts of the model. He has already added door and shutter animation by far. By combining the trigger with the animation, users can open the door and shutter by touching the trigger.
+
+### Action Controller
+Our client required us to have two different action modes. One is the walking mode, the other is the flying mode. Walking mode means users could only walk on the ground, climb up through the ladder. The user cannot go across the wall or flying up and down. Flying mode means users can go anywhere without any restriction. Currently these two modes have all been developed.
 
 ## VALUE DELIVERED TO THE CLIENT
 
