@@ -49,13 +49,13 @@ The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTz
 
 ## VALUE DELIVERED TO THE CLIENT
 
-1.Simplify part of models. Using blender and 3DMAX to reduce polygons. We transform six
+* Simplify part of models. Using blender and 3DMAX to reduce polygons. We transform six
 main models file format using 3DMAX, and we reduce polygons for one model (Shutter). For polygons reducing process, the main task is to find out components which can not been seen directly.
-2.Identify materials, textures, reflection, colors. We using shader lab to implement glass,steel and concrete materials and bind on the real models.
-3.Implement open/close shutters, main entrance door: One basic animation state machine has been implement to control the open/close shutters, one for control the main entrance door.
-4. Gravity and collision detection-for walking and logistics: Implement keyboard controller to control the player moving, which concludes a flying mode and walking mode.
-5. Outdoor scenery: some assets such as grass and trees has been added to the main scene as well as drawing a temporary terrain for demonstration.
-6. We create the draft version user manual to guide next development team or client. 
+* Identify materials, textures, reflection, colors. We using shader lab to implement glass,steel and concrete materials and bind on the real models.
+* Implement open/close shutters, main entrance door: One basic animation state machine has been implement to control the open/close shutters, one for control the main entrance door.
+* Gravity and collision detection-for walking and logistics: Implement keyboard controller to control the player moving, which concludes a flying mode and walking mode.
+* Outdoor scenery: some assets such as grass and trees has been added to the main scene as well as drawing a temporary terrain for demonstration.
+* We create the draft version user manual to guide next development team or client. 
 
 ## DOCUMENTATION
 
