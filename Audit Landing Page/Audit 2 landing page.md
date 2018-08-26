@@ -43,6 +43,9 @@ File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for acces
 * Client Notes (https://drive.google.com/drive/folders/11pILGl-u_sZ7EmBm4O7iB2B6F-MvDwkM)
 * Team members (https://docs.google.com/document/d/1XXsPXXi1cnyj7JQd_063rteS05-5SGZM1a8oHB1HGJ0/edit)
 
+### TECHNICAL ARTEFACTS
+
+
 ### KEY STAKEHOLDERS
 #### Dr Tony Travouillon
 Tony is the director of our project and represents the interest of RSAA. He provides valuable inputs to our team, such as reqirements and some technical solutions. He also helps the team by coordinating resources and managing the communication of important personals. Meetings in person between the team and Tony are planned fortnightly. He will eventually takes control of the project after completion or at the end of the semester.
@@ -55,26 +58,6 @@ GMTO Corporation is in charge of the construction and the operation of the actua
 
 #### Users
 Users are the people who use our product to experience the GMT with a VR headset.
-
-### TEAM EXPECTATIONS
-
-
-### CLIENT EXPECTATIONS
-This project is about building a VR video game. Tony and GMTO expect us to perform following tasks:
-* Simplify models, check geometry
-* Add materials, textures, reflection, colours
-* Animate the telescope (tilt, rotation, open/close shutters)
-* Impelemente a flying mode with collision disabled
-* Impelemente a walking mode with proper collision
-
-They also prefer to have following features:
-* Outdoor Scenery
-* Lasers during nighttime
-* Cars and trucks parked for scale
-* People for scale
-* Mirror Cell assembly mode
-* Backgourd sounds
-* Tour with narration
 
 ### PROJECT OUTPUT (SINCE WEEK 3)
 1. Converted part of the models into Unity.
@@ -93,4 +76,4 @@ Decision making log: (https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlv
 ### FEEDBACK FROM CLIENT/TUTOR
 Feedback folder: (https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
-### TECHNICAL ARTEFACTS
+
