@@ -86,7 +86,9 @@ main models file format using 3DMAX, and we reduce polygons for one model (Shutt
 * Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
 
 ## DECISION MAKING PROCESS
-Decision making log: (https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l)
+Our group based on “Change Request Form” to process the decision making. Each time when some team members want to make certain changes, they are supposed to follow the instructions of “Change Request Form” to submit an application to the relevant person in charge (e.g. if the issue is about model processing, the responsible person is Taizhou Wang). Then, the responsible person will decide to process this change or not. In addition, the responsible person can also identify the change into the group meeting to process. 
+
+*Decision making log: (https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l)
 
 ## FEEDBACK FROM CLIENT/TUTOR
 We collected and documented the feedback from the shadow team and tutor, mainly from the audit feedback. Based on those feedback, we created some documents, linked above. The actional feedback can be found in the next part. More detail about the feedback can be find in the link.(https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
