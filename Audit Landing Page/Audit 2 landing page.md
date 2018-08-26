@@ -89,7 +89,7 @@ main models file format using 3DMAX, and we reduce polygons for one model (Shutt
 ## DOCUMENTATION
 
 * Meeting minutes: https://drive.google.com/drive/folders/1oKBWNELC3S7AG890oS9v8DCupTLNOfBR
-* Decision Making Log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l
+* Changing & Decision Making Log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l
 * Feedback: https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI
 * Schedual & Task: https://drive.google.com/drive/folders/1--FPXei4-tayVnUPRBbYhAE0OBaoPdw-
 * Work Distribution: https://drive.google.com/drive/folders/1l0bR8nKL50gtQHXJxaDtsek5KaImEhcL
