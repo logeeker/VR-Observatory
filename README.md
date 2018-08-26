@@ -6,6 +6,6 @@ The aim of this project is to establish a VR model for GMT, which allow users to
 
 Landing page links: 
 
-*Audit 1: https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Audit%201%20landing%20page.md 
+Audit 1: https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Audit%201%20landing%20page.md 
 
-*Audit 2: https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Audit%202%20landing%20page.md
+Audit 2: https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Audit%202%20landing%20page.md
