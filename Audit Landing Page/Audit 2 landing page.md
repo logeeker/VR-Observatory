@@ -69,7 +69,7 @@ main models file format using 3DMAX, and we reduce polygons for one model (Shutt
 * Work Distribution: https://drive.google.com/drive/folders/1l0bR8nKL50gtQHXJxaDtsek5KaImEhcL
 * Trouble Shooting: https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM
 * Working Log: https://drive.google.com/drive/folders/1r7FeKttsb63_vF9OvEKYS0w8cvRCgsfq
-* Risk Identify: 
+* Risk Identify: https://docs.google.com/spreadsheets/d/1VCMeprx5Luwrqnj5r75JO-bccIG-6LeEqe17zqrMJkE/edit#gid=0
 * Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
 
 ## DECISION MAKING PROCESS
