@@ -17,7 +17,6 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 ### TOOLS USED
 * Discord for communication with team members, shadow team, tutor and cilent.
 * Google Drive to hold documents. 
-* Google Drive to host our documentation
 * Solidworks for technical drawing. 
 * Meshlab to process and edit 3D triangular meshes. 
 * 3Ds max for animation, redering and 3D modeling. 
