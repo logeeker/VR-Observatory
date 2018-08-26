@@ -35,7 +35,8 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 
 ### PROTOTYPE
 This is a screen shot of our prototype, and it have implemented two shutters, main entrance door opening and closing and main camera controling. 
-![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Prototype.png)
+
+![image](https://github.com/logeeker/VRObservatory/blob/master/Audit%20Landing%20Page/Prototype.png)
 
 ## PROJECT OUTPUT (SINCE WEEK 3)
 
