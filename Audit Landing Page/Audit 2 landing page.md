@@ -41,12 +41,21 @@ This is a screen shot of our prototype, and it have implemented two shutters, ma
 ## PROJECT OUTPUT (SINCE WEEK 3)
 
 ### ROLE DISTRIBUTION
-
 Since we did not have a role distribution before the audit 1, we found that the group work was not efficient without a division. We considered two different distribution plans. The first was to split the whole group into two small groups. One group dealt with the model in Solidworks, the other added animation and collision to the models by using Unity. The second one was to allocate each memeber a role and work in parallel. 
+
+### ROLE DISTRIBUTION
+Scene Layout
+The arrangement of the observatory scene should be as close as possible to the vision, and the harmony of these matches should be guaranteed. Thus, we select the scene of 11am and 7pm around the observatory and apply for Unity to construct the scenery. Up to now, our group has finished the design of tree, glass, rise and fall of the sun. In the next stage of the project, our group will try to arrange and add decorating assets in the scene. 
+
+
+Trigger Making
+In the real world, it is easy for a player to open the door, enter into the building and take the elevator to whatever levels of the floor. However, in the model, there must be a trigger to listen the player’s instructions and provide related animation. Currently, our group has implemented the door trigger. In the next stage of the project, we will add more triggers into the project.  
+
+Model Transformation
+Our group based on the “Iterative Model” to process the Model Transformation. Since we have been stuck in file extension issue for two weeks, up to now, we only have finished the implementation of a core model. In the next stage of the project, we are supposed to concentrate on model transformation and complete it by the end of week 7. 
 
 1. Converted part of the models into Unity.
 2. Added a door-open animation to the model.
-3. Found the other assets for the external environment. (Grass, tree) (need to be improved)
 4. Used a demo to test the LOD group.
 The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTzoo-Kluq5JwEL2FNu)
 
