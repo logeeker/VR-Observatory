@@ -42,13 +42,21 @@ The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTz
 
 ### DOCUMENTATION
 Meeting minutes: https://drive.google.com/drive/folders/1oKBWNELC3S7AG890oS9v8DCupTLNOfBR
+
 Decision Making Log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l
+
 Feedback: https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI
+
 Schedual & Task: https://drive.google.com/drive/folders/1--FPXei4-tayVnUPRBbYhAE0OBaoPdw-
+
 Work Distribution: https://drive.google.com/drive/folders/1l0bR8nKL50gtQHXJxaDtsek5KaImEhcL
+
 Trouble Shooting: https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM
+
 Working Log: https://drive.google.com/drive/folders/1r7FeKttsb63_vF9OvEKYS0w8cvRCgsfq
+
 Risk Identify: 
+
 Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
 
 ### DECISION MAKING PROCESS
