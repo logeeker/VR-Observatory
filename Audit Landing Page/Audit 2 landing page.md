@@ -39,7 +39,7 @@ Before the implementation of the model, our group apply for use-case model to ca
 This is a screen shot of our prototype, and it have implemented two shutters, main entrance door opening and closing and main camera controling. 
 
 ![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Prototype.png)
-
+![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Prototype2.mp4)
 ### SOURCE CODE
 
 ## PROJECT OUTPUT (SINCE WEEK 3)
