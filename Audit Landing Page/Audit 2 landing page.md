@@ -34,6 +34,8 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 ### MODEL
 
 ### PROTOTYPE
+This is a screen shot of our prototype, and it have implemented two shutters, main entrance door opening and closing and main camera controling. 
+![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Prototype.png)
 
 ## PROJECT OUTPUT (SINCE WEEK 3)
 
@@ -78,11 +80,11 @@ Feedback folder: (https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6G
 ## ACTING ON FEEDBACK FROM AUDIT ONE
 After first audit, some problems have be pointed by shadow team and tutor. Our team record feedback and made changes to improve our project developing process. Based on those feedback,our team made changes listed at below.
 
-* For outcomes to client, we re-identify our MVP clearly. Especially, our team have assigned the work distribution for each member to help members have clear goal for developing process. Our group decide to make a prototype to implement the basic animation and controlling for client delivery. Our group have implement two shutters and main entrance door animation and main camera movements. Once we finish a release version, we will submit to client to finish a iteration. In each iteration, the application developing process will repeat prototyping, testing and delivering. 
+* For outcomes to client, we re-identify our MVP clearly. Our group decide to make a prototype to implement the basic animation and controlling for client delivery. Our group have implement two shutters and main entrance door animation and main camera movements. Once we finish a release version, we will submit to client to finish a iteration. In each iteration, the application developing process will repeat prototyping, testing and delivering. 
 
 * For decision making, the decision making log will been maintained to keep track our changes and help clients knowing our working process. In the decision making process, our team use the request forms and log table to record each significant decision have made so far. The request forms contain details, justification and description about changes.
 
-* For teamwork and communication, our team split to two sub-teams which work on RSAA workshop in Monday and Saturday. Based on the setting of sub-team work shifting, our team decide hold weekly meeting on Sunday. During this meeting we can communicate tasks have been done and hand over unfinished tasks,and it is a good opportunity to exchange ideas and solve issues. The client meeting will be hold on each week Monday, we can show current process and changes to clients to looking for feedback. 
+* For teamwork and communication, our team have assigned the work distribution for each member to help members have clear goal for developing process. Accoding to work distribution, our team split to two sub-teams which work on RSAA workshop in Monday and Saturday. Based on the setting of sub-team work shifting, our team decide hold weekly meeting on Sunday. During this meeting we can communicate tasks have been done and hand over unfinished tasks,and it is a good opportunity to exchange ideas and solve issues. The client meeting will be hold on each week Monday, we can show current process and changes to clients to looking for feedback. 
 
 * For documentation, the required documents have be created and stored into the Google drive. Our team re-edit old version of documents and keep it into formal. For each documents, they can be found on the audit landing page. 
 
