@@ -29,35 +29,6 @@ Documenting: [Google Drive](https://drive.google.com/open?id=1i6sF93Loz_3rUczXJP
 File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for access")
 * Email Seng for access
 
-### What have we done since Audit 1
-WIP Achievements overview
-
-#### Changes
-WIP
-
-#### Seng Song
-WIP
-
-#### Min Liu
-WIP
-
-#### Lifu Zhao
-WIP
-
-#### Yu Yang
-WIP
-
-#### Wenrui Li
-WIP
-
-#### Zhen Yu Zhao
-WIP
-
-#### Taizhou Wang
-WIP
-
-#### Future Planing
-WIP
 
 ### DEVELOPING TOOLS
 * Solidworks
@@ -86,6 +57,7 @@ GMTO Corporation is in charge of the construction and the operation of the actua
 Users are the people who use our product to experience the GMT with a VR headset.
 
 ### TEAM EXPECTATIONS
+To complete a operational VR video game.  
 
 
 ### CLIENT EXPECTATIONS
@@ -131,8 +103,12 @@ Decision making log: (https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlv
 Feedback folder: (https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
 ### TEAM WORK
+The team members are divided into 2 teams to work separately to process model transformation.  
 
 ### COMMUNICATION
+1. There is a voice meeting ever week to talk about issues we have met. 
+2. We apply for discord to communicate with other team members, client, tutor and shadow team.
+
 
 ### PROJECT MILESTONE
 Week | Goal
