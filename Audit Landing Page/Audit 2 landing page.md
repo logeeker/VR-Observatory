@@ -1,11 +1,11 @@
 # Audit Landing Page *VR-Observatory*
 
-### CLIENT VISION
+## CLIENT VISION
 >The Giant Magellan Telescope will be one member of the next class of giant ground-based telescopes. It will be constructed in the Las Campanas Observatory in Chile. Commissioning of the telescope is scheduled to begin in 2024.
 
 Our goal is to recreate the observatory in a Virtual Reality world. This software allows users to experience the observatory with a VR headset before the completion of the construction of the GMT. It can be used not only for promotion purpose but also as a tool to validate the design.
 
-### TEAM
+## TEAM
 * Seng Cheong Song - u5767037
 * Min Liu - u6339307
 * Lifu Zhao - u6534756
@@ -14,7 +14,7 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 * Zhen Yu Zhao - u6210785
 * Taizhou Wang - u6273306
 
-### TOOLS USED
+## TOOLS USED
 * Discord for communication with team members, shadow team, tutor and cilent.
 * Google Drive to hold documents. 
 * Solidworks for technical drawing. 
@@ -28,24 +28,28 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 * Client Notes (https://drive.google.com/drive/folders/11pILGl-u_sZ7EmBm4O7iB2B6F-MvDwkM)
 * Team members (https://docs.google.com/document/d/1XXsPXXi1cnyj7JQd_063rteS05-5SGZM1a8oHB1HGJ0/edit)
 
-### TECHNICAL ARTEFACTS
+## TECHNICAL ARTEFACTS
 
-## Model
+### Model
 
-## Test Data
+### Test Data
 
-## Prototype
+### Prototype
 
-### PROJECT OUTPUT (SINCE WEEK 3)
+## PROJECT OUTPUT (SINCE WEEK 3)
+
+### TASK DISTRIBUTION
+
+
 1. Converted part of the models into Unity.
 2. Added a door-open animation to the model.
 3. Found the other assets for the external environment. (Grass, tree) (need to be improved)
 4. Used a demo to test the LOD group.
 The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTzoo-Kluq5JwEL2FNu)
 
-### VALUE DELIVERED TO THE CLIENT
+## VALUE DELIVERED TO THE CLIENT
 
-### DOCUMENTATION
+## DOCUMENTATION
 * Meeting minutes: https://drive.google.com/drive/folders/1oKBWNELC3S7AG890oS9v8DCupTLNOfBR
 * Decision Making Log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l
 * Feedback: https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI
@@ -56,10 +60,10 @@ The detailed outcomes: (https://drive.google.com/drive/folders/1gAqK06plusJ-dFTz
 * Risk Identify: 
 * Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
 
-### DECISION MAKING PROCESS
+## DECISION MAKING PROCESS
 Decision making log: (https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM)
 
-### FEEDBACK FROM CLIENT/TUTOR
+## FEEDBACK FROM CLIENT/TUTOR
 Feedback folder: (https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
 
