@@ -33,11 +33,14 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 
 ### MODEL
 
-### TEST
-
 ### PROTOTYPE
 
 ## PROJECT OUTPUT (SINCE WEEK 3)
+
+### ROLE DISTRIBUTION
+
+Since we did not have a role distribution before the audit 1, we found that the group work was not efficient without a division. We considered two different distribution plans. The first was to split the whole group into two small groups. One group dealt with the model in Solidworks, the other added animation and collision to the models by using Unity. The second one was to allocate each memeber a role and work in parallel. 
+
 1. Converted part of the models into Unity.
 2. Added a door-open animation to the model.
 3. Found the other assets for the external environment. (Grass, tree) (need to be improved)
