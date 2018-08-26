@@ -74,7 +74,7 @@ By searching for some resources, the Level of Detail (LOD) group was considered 
 Our client required us to add some animations to the models, like the opening and closing of the door. Due to the component renaming issue, Lifu has only worked on parts of the model. He has already added door and shutter animation by far. By combining the trigger with the animation, users can open the door and shutter by touching the trigger.
 
 #### Action Controller (Seng)
-Our client required us to have two different action modes. One is the walking mode, the other is the flying mode. Walking mode means users could only walk on the ground, climb up through the ladder. The user cannot go across the wall or flying up and down. Flying mode means users can go anywhere without any restriction. Currently these two modes have all been developed.
+Allowing the users to explore the observatory freely is the essence of our project. In order to fulfill this goal I have implemented a Minecrafty controls. The controls consist of a walking mdoe and a flying mode. In walking mdoe both the collision and the gravity are set to on. In flying mdoe the user can fly through everything without worrying about the terrain.
 
 ### VALUE DELIVERED TO THE CLIENT
 
