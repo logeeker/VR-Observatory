@@ -32,7 +32,7 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 ## TECHNICAL ARTEFACTS
 
 ### MODEL
-Before the implementation of the model, our group apply for use-case model to capture the requirements of the client. 
+Before the implementation of the model, our group apply for use-case model to capture the requirements from the client. 
 
 ![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Use-case%20model.png)
 ### PROTOTYPE
