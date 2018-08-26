@@ -14,28 +14,14 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 * Zhen Yu Zhao - u6210785
 * Taizhou Wang - u6273306
 
-### TOOLS
-Planning: [Trello](https://trello.com/b/b96tWd05/vr-observatory "VR Observatory")
-* We use Trello to make plans
-* Trello keeps track of our progress
-
-Communication: [Discord](https://discord.gg/VTyjpGq "TechLauncher VR Observatory")
-* We use Discord to have communication within the team
-* People outside our team including our stakeholder, shadows, and anyone who is interested in our project can also reach us easily
-
-Documenting: [Google Drive](https://drive.google.com/open?id=1i6sF93Loz_3rUczXJP7vv6xwW43V2_dm "TechLauncher VR Observatory")
-* We use Google Drive to host our documentation
-
-File Repository: [Google Drive](mailto:u5767037@anu.edu.au "Email Seng for access")
-* Email Seng for access
-
-
-### DEVELOPING TOOLS
-* Solidworks
-* Meshlab
-* Blender
-* Unity3D
-* Unreal (Possible)
+### TOOLS USED
+* Discord for communication with team members, shadow team, tutor and cilent.
+* Google Drive to hold documents. 
+* Google Drive to host our documentation
+* Solidworks for technical drawing. 
+* Meshlab to process and edit 3D triangular meshes. 
+* 3Ds max for animation, redering and 3D modeling. 
+* Unity3D to develop game.
 
 ### PROJECT ARTEFACTS
 * Meeting Notes(https://drive.google.com/drive/folders/1MEXEly6Cfp3RRHAZ7D2QieKS_ribvz60)
