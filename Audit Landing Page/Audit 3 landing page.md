@@ -123,13 +123,21 @@ Our group based on “Change Request Form” to process the decision making. Eac
 We collected and documented the feedback from the shadow team and tutor, mainly from the audit feedback. Based on those feedback, we created some documents, linked above. The feedback reflection can be found in the next part. More details about the feedback can be find in the link.(https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
 ## ACTING ON FEEDBACK FROM AUDIT ONE
-After first audit, some problems have be pointed by shadow team and tutor. Our team record feedback and made changes to improve our project developing process. Based on those feedback, our team made changes listed at below.
+After the first audit, some problems have been pointed by shadow team and tutor. Our team record feedback and made changes to improve our project developing process. Based on that feedback, our team made changes listed at below:
 
-* For outcomes to client, we re-identify our MVP clearly. Our group decide to make a prototype to implement the basic animation and controlling for client delivery. Our group have implement two shutters and main entrance door animation and main camera movements. Once we finish a release version, we will submit to client to finish a iteration. In each iteration, the application developing process will repeat prototyping, testing and delivering. 
+### Project output:
+•	Recording more details in the meeting notes.
+•	Updated the prototype according to the clients’ requirements. The model, now, has laser, mirrors and lights.
+•	The progress has been evaluated according to what we have done, which can help the client have better understand how far we have gone.
 
-* For decision making, the decision making log will been maintained to keep track our changes and help clients knowing our working process. In the decision making process, our team use the request forms and log table to record each significant decision have made so far. The request forms contain details, justification and description about changes.
+### Decision making: 
+•	Applying the change request form when facing significant changing requests. Recording the small decisions in the decision log
+•	Add one column in the decision-making log to explain why we made that decision.
+•	The decision has also been recorded on time during the meetings. 
+•	For one decision, the alternative solutions have also been recorded and the solutions we accepted have been highlighted.
 
-* For teamwork and communication, our team have assigned the work distribution for each member to help members have clear goal for developing process. Accoding to work distribution, our team split to two sub-teams which work on RSAA workshop in Monday and Saturday. Based on the setting of sub-team work shifting, our team decide hold weekly meeting on Sunday. During this meeting we can communicate tasks have been done and hand over unfinished tasks,and it is a good opportunity to exchange ideas and solve issues. The client meeting will be hold on each week Monday, we can show current process and changes to clients to looking for feedback. 
-
-* For documentation, the required documents have be created and stored into the Google drive. Our team re-edit old version of documents and keep it into formal. For each documents, they can be found on the audit landing page. 
+### Communication and teamwork:
+•	The efficiency has been improved. We show the model to the client by a video which is a more effective way to display the current model we have.
+•	The personal working log has been created to record personal progress.
+•	Applying the github collaborators to develop.
 
