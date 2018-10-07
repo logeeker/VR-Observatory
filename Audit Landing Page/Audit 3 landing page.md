@@ -39,7 +39,7 @@ This is a diagram to show our approaches in different stages.
 ### PROTOTYPE
 As seen in the video, our group have implemented two shutters, main entrance door opening and closing and main camera controling.
 
-* Prototype link: https://drive.google.com/open?id=1U_Vyd_W7YGodX0voeSHBq56HqtFn4b63
+* Prototype link: https://drive.google.com/drive/folders/114aibWOXVej2XNXt5kSz6sESz-uZHYZu
 
 ## PROJECT OUTPUT (SINCE WEEK 6)
 
