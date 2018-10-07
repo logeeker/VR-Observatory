@@ -126,18 +126,18 @@ We collected and documented the feedback from the shadow team and tutor, mainly 
 After the first audit, some problems have been pointed by shadow team and tutor. Our team record feedback and made changes to improve our project developing process. Based on that feedback, our team made changes listed at below:
 
 ### Project output:
-•	Recording more details in the meeting notes.
-•	Updated the prototype according to the clients’ requirements. The model, now, has laser, mirrors and lights.
-•	The progress has been evaluated according to what we have done, which can help the client have better understand how far we have gone.
+•	Recording more details in the meeting notes.  
+•	Updated the prototype according to the clients’ requirements. The model, now, has laser, mirrors and lights.  
+•	The progress has been evaluated according to what we have done, which can help the client have better understand how far we have gone.  
 
 ### Decision making: 
-•	Applying the change request form when facing significant changing requests. Recording the small decisions in the decision log
-•	Add one column in the decision-making log to explain why we made that decision.
-•	The decision has also been recorded on time during the meetings. 
-•	For one decision, the alternative solutions have also been recorded and the solutions we accepted have been highlighted.
+•	Applying the change request form when facing significant changing requests. Recording the small decisions in the decision log.  
+•	Add one column in the decision-making log to explain why we made that decision.  
+•	The decision has also been recorded on time during the meetings.   
+•	For one decision, the alternative solutions have also been recorded and the solutions we accepted have been highlighted.  
 
 ### Communication and teamwork:
-•	The efficiency has been improved. We show the model to the client by a video which is a more effective way to display the current model we have.
-•	The personal working log has been created to record personal progress.
-•	Applying the github collaborators to develop.
+•	The efficiency has been improved. We show the model to the client by a video which is a more effective way to display the current model we have.  
+•	The personal working log has been created to record personal progress.  
+•	Applying the github collaborators to develop.  
 
