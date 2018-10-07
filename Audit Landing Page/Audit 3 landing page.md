@@ -55,6 +55,18 @@ The distribution of technical and management role are as follows.
 ### Guidance Handbook (Wenrui)
 Our client wanted us to have a document of instructions of all the tasks we have done. Thus, Wenrui has written a handout book to give detailed instructions to the readers. Currently this handbook only contains the guidance of exporting models. This handbook will be supplemented with the completion of each task.
 
+### Import the Observatory models and add mirrors (Wenrui)
+The observatory model is one of the challenging part as it contains about 30000 components, some of the parts have inner faces which are not necessary to import. Besides many components with high details are significantly influence the framerate and take up too much storage memory. So the works based on reduce the parts which are unnecessary to demostrate. For important components like mirrors, reflection effects are added to show the smooth surface of mirrors.
+
+### Add a night scene demo with milky way skybox (Wenrui)
+The environment of the scene are essential for graphic performance, in order to make the scene looks real, some test scene has been build, which include day night cycle, starry sky, dynamic cloud. For the night part, the milky way skybox has a better visual effect. 
+
+### Attach spot lights on the observatory model (Wenrui)
+Adding light source is to enlight the telescope in the night environment, in the inside of the upper enclosure, three group light sources have been added for enlighting the ceiling, one red light has been added to enlight the mirror.
+
+### Adjust the texture (Wenrui)
+According to the project requirements, the texture of the shutter is adjusted to be more metal like as well as the color of the pipes are modified to align with the real design. 
+
 ### One blinn-phong shading model Implementing (Wenrui)
 Since one of the most important part of our project is the graphic performance, we need to attach all models with appropriate shaders. Wenrui has already implemented a blinn-phong shading model, which is the outside of the observatory. Please check the prototype link above to see the model. 
 
