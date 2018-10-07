@@ -31,10 +31,10 @@ Our goal is to recreate the observatory in a Virtual Reality world. This softwar
 
 ## TECHNICAL ARTEFACTS
 
-### MODEL
-Before the implementation of the model, our group apply for use-case model to capture the requirements from the client. 
+### APPROACHES
+This is a diagram to show our approaches in different stages.
 
-![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Use-case%20model.png)
+![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/progress%20no%20background.png)
 
 ### PROTOTYPE
 As seen in the video, our group have implemented two shutters, main entrance door opening and closing and main camera controling.
