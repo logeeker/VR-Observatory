@@ -81,7 +81,7 @@ Yu Yang has implemented more triggers for interaction. Now users can interact wi
 4. Users can switch the inside lights.
 
 ### Model Transformation (Taizhou)
-Our group based on the “Iterative Model” to process the Model Transformation. Taizhou has separated the large model into several parts, define them with new name and convert them into Blender to reduce polygons. So far 
+Our group based on the “Iterative Model” to process the Model Transformation. Taizhou has separated the large model into several parts, define them with new name and convert them into Blender to reduce polygons. In addition, during the convertion of the model, Taizhou process some basic operations to adjust the components and reduce the polygons.  
 
 ### LOD group demo (Min)
 By searching for some resources, the Level of Detail (LOD) group was considered as an optimization method. LOD means the complexity of a model will decrease when it move away from the viewer. Since each member worked in parallel, the optimization cannot be tested on the project model without other functions. Currently, Min has made a demo to test the effect of LOD group. Three models were added in a LOD group. This optimization method will be used in the project model this week.
@@ -94,13 +94,12 @@ I have been mainly working on the implementation of VR. Similar to the previous 
 
 ## VALUE DELIVERED TO THE CLIENT
 
-* Simplify part of models. Using blender and 3DMAX to reduce polygons. We transform six
-main models file format using 3DMAX, and we reduce polygons for one model (Shutter). For polygons reducing process, the main task is to find out components which can not been seen directly.
-* Identify materials, textures, reflection, colors. We use shader lab to implement glass,steel and concrete materials and bind on the real models.
-* Implement open/close shutters, main entrance door: One basic animation state machine has been implement to control the open/close shutters, one for control the main entrance door.
-* Gravity and collision detection-for walking and logistics: Implement keyboard controller to control the player moving, which concludes a flying mode and walking mode.
-* Outdoor scenery: some assets such as grass and trees has been added to the main scene as well as drawing a temporary terrain for demonstration.
-* We create the draft version user manual to guide next development team or client. 
+* Finalized technical documents and guidance for the next development team.
+* All main components have been converted and reconstructed in unity.
+* Build a unity project with interactions, animations and post-process.
+* Create statistic logs of model component files that facilitates the process of reporting to the Client and resource management.
+  Control to be continue(wait song)
+
 
 ## DOCUMENTATION
 
