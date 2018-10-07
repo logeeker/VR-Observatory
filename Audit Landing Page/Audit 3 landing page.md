@@ -81,7 +81,7 @@ Yu Yang has implemented more triggers for interaction. Now users can interact wi
 4. Users can switch the inside lights.
 
 ### Model Transformation (Taizhou)
-Our group based on the “Iterative Model” to process the Model Transformation. Since we have been stuck in file renaming issue for two weeks, up to now, we only have finished the implementation of a core model. In the next stage of the project, we are supposed to concentrate on model transformation and complete it by the end of week 7. 
+Our group based on the “Iterative Model” to process the Model Transformation. Taizhou separated the large model into several parts, define them with new name and convert them into Blender to reduce polygons. 
 
 ### LOD group demo (Min)
 By searching for some resources, the Level of Detail (LOD) group was considered as an optimization method. LOD means the complexity of a model will decrease when it move away from the viewer. Since each member worked in parallel, the optimization cannot be tested on the project model without other functions. Currently, Min has made a demo to test the effect of LOD group. Three models were added in a LOD group. This optimization method will be used in the project model this week.
