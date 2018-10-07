@@ -71,7 +71,7 @@ According to the project requirements, the texture of the shutter is adjusted to
 Since one of the most important part of our project is the graphic performance, we need to attach all models with appropriate shaders. Wenrui has already implemented a blinn-phong shading model, which is the outside of the observatory. Please check the prototype link above to see the model. 
 
 ### Scene Layout (Zhenyu)
-The arrangement of the observatory scene should be close to the real world scene, and the harmony of these matches should be guaranteed. Thus, we selected the scenes of 11am and 7pm around the observatory and applied for Unity to construct the scenery. Up to now, our group has finished the design of tree, glass, rise and fall of the sun. In the next stage of the project, our group will try to arrange and add decorating assets in the scene. 
+The arrangement of the observatory scene should be close to the real world scene, and the harmony of these matches should be guaranteed. Thus, Zhenyu selected the scenes of 11am and 7pm around the observatory and applied for Unity to construct the scenery. Up to now, our group has finished the design of tree, glass, rise and fall of the sun. In the next stage of the project, our group will try to arrange and add decorating assets in the scene. 
 
 ### Interaction implementation (Yu)
 Yu Yang has implemented more triggers for interaction. Now users can interact with the model by keyboard. The interaction parts are as follows:
