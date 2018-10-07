@@ -43,18 +43,6 @@ As seen in the video, our group have implemented two shutters, main entrance doo
 
 ## PROJECT OUTPUT (SINCE WEEK 6)
 
-### ROLE DISTRIBUTION
-Since we did not have a role distribution before the audit 1, we found that the group work was not efficient without a division. We considered two different distribution plans. The first was to split the whole group into two small groups. One group dealt with the model in Solidworks, the other added animation and collision to the models by using Unity. The second one was to allocate each member a role and work in parallel. After comparing these two plans, we chose the latter one to ensure everyone has a relative same workload. 
-
-The role distribution was based on the skills and preferences of each member. We also allocated each member a management task in order to reduce the documentation workload of the notetaker.
-
-The distribution of technical and management role are as follows.
-![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Technical%20task.png)
-![image](https://github.com/logeeker/VR-Observatory/blob/master/Audit%20Landing%20Page/Management%20task.png)
-
-### Guidance Handbook (Wenrui)
-Our client wanted us to have a document of instructions of all the tasks we have done. Thus, Wenrui has written a handout book to give detailed instructions to the readers. Currently this handbook only contains the guidance of exporting models. This handbook will be supplemented with the completion of each task.
-
 ### Import the Observatory models and add mirrors (Wenrui)
 The observatory model is one of the challenging part as it contains about 30000 components, some of the parts have inner faces which are not necessary to import. Besides many components with high details are significantly influence the framerate and take up too much storage memory. So the works based on reduce the parts which are unnecessary to demostrate. For important components like mirrors, reflection effects are added to show the smooth surface of mirrors.
 
