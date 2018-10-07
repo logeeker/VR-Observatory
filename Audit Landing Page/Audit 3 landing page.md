@@ -83,7 +83,7 @@ Our group based on the “Iterative Model” to process the Model Transformation
 By searching for some resources, the Level of Detail (LOD) group was considered as an optimization method. LOD means the complexity of a model will decrease when it move away from the viewer. Since each member worked in parallel, the optimization cannot be tested on the project model without other functions. Currently, Min has made a demo to test the effect of LOD group. Three models were added in a LOD group. This optimization method will be used in the project model this week.
 
 ### Door and shutter Animation (Lifu)
-Our client required us to add some animations to the models, like the opening and closing of the door. Due to the component renaming issue, Lifu has only worked on parts of the model. He has already added door and shutter animation by far. By combining the trigger with the animation, users can open the door and shutter by touching the trigger.
+Our client required us to add some animations to the models, like the opening and closing of the door. By the end of week 9, Lifu has implemented animations of the shutter and the door. By combining the trigger with the animation, users can open the door and shutter by touching the trigger.
 
 ### Controls (Seng)
 Allowing the users to explore the observatory freely is the essence of our project. In order to fulfill this goal I have implemented a Minecrafty controls. The controls consist of a walking mode and a flying mode. In walking mode both the collision and the gravity are set to on. In flying mode the user can fly through everything without worrying about the terrain. The clipping issue with the camera was also fixed.
