@@ -41,7 +41,7 @@ As seen in the video, our group have implemented two shutters, main entrance doo
 
 * Prototype link: https://drive.google.com/open?id=1U_Vyd_W7YGodX0voeSHBq56HqtFn4b63
 
-## PROJECT OUTPUT (SINCE WEEK 3)
+## PROJECT OUTPUT (SINCE WEEK 6)
 
 ### ROLE DISTRIBUTION
 Since we did not have a role distribution before the audit 1, we found that the group work was not efficient without a division. We considered two different distribution plans. The first was to split the whole group into two small groups. One group dealt with the model in Solidworks, the other added animation and collision to the models by using Unity. The second one was to allocate each member a role and work in parallel. After comparing these two plans, we chose the latter one to ensure everyone has a relative same workload. 
@@ -83,14 +83,17 @@ Yu Yang has implemented more triggers for interaction. Now users can interact wi
 ### Model Transformation (Taizhou)
 Our group based on the “Iterative Model” to process the Model Transformation. Taizhou has separated the large model into several parts, define them with new name and convert them into Blender to reduce polygons. In addition, during the convertion of the model, Taizhou process some basic operations to adjust the components and reduce the polygons.  
 
-### LOD group demo (Min)
-By searching for some resources, the Level of Detail (LOD) group was considered as an optimization method. LOD means the complexity of a model will decrease when it move away from the viewer. Since each member worked in parallel, the optimization cannot be tested on the project model without other functions. Currently, Min has made a demo to test the effect of LOD group. Three models were added in a LOD group. This optimization method will be used in the project model this week.
+### File Redownloading (Min)
+Since the old downloaded models missed some files, it was difficult to find the missing files in thousands of components, thus Min redownloaded all models from SolidWork PDM. Due to the wrong folder format, the thousands of files cannot be downloaded as a zip file, so Min downloaded these files manually (which really took a long time).
+
+### Model Categorizing and Conversion (Min)
+One of the most important components of our project is the telescope. The telescope assembly contains many detailed models which are not necessary for our game model, removing these trivial models can not only reduce the model size but also increase the calculating time in Unity. Min categorized the components of telescope as 16 parts, like the frame, elevation cable, stair, etc. She also converted these SOLIDWORKS Assemblies to iges files and removed the models with more than 1GB size.
 
 ### Door and shutter Animation (Lifu)
 Our client required us to add some animations to the models, like the opening and closing of the door. By the end of week 9, Lifu has implemented animations of the shutter and the door. By combining the trigger with the animation, users can open the door and shutter by touching the trigger.
 
 ### Controls (Seng)
-I have been mainly working on the implementation of VR. Similar to the previous non VR version, the VR version has a flying mode with no collision detection and a walking mode with collision detection activated. Both the VR and non VR version of the controls are now integrated in the actual project with the observatory models. Other than the controls I have also set up Unity Collaborate (it's basically version control for Unity) to speed up the development for the team.
+He has been mainly working on the implementation of VR. Similar to the previous non VR version, the VR version has a flying mode with no collision detection and a walking mode with collision detection activated. Both the VR and non VR version of the controls are now integrated in the actual project with the observatory models. Other than the controls he havs also set up Unity Collaborate (it's basically version control for Unity) to speed up the development for the team.
 
 ## VALUE DELIVERED TO THE CLIENT
 
@@ -98,7 +101,7 @@ I have been mainly working on the implementation of VR. Similar to the previous 
 * All main components have been converted and reconstructed in unity.
 * Build a unity project with interactions, animations and post-process.
 * Create statistic logs of model component files that facilitates the process of reporting to the Client and resource management.
-  Control to be continue(wait song)
+* Implemented controller of the VR version.
 
 
 ## DOCUMENTATION
@@ -114,14 +117,21 @@ I have been mainly working on the implementation of VR. Similar to the previous 
 * Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
 
 ## DECISION MAKING PROCESS
-Our group based on “Change Request Form” to process the decision making. Each time when some team members want to make certain changes, they are supposed to follow the instructions of “Change Request Form” to submit an application to the relevant person in charge (e.g. if the issue is about model processing, the responsible person is the leader of model processing). Then, the leader will decide to process this change or not. In addition, the responsible person can also identify the change into the group meeting to process. 
+Our old decision making process is based on “Change Request Form”. Each time when some team members want to make certain changes, they are supposed to follow the instructions of “Change Request Form” to submit an application to the relevant person in charge (e.g. if the issue is about model processing, the responsible person is the leader of model processing). Then, the leader will decide to process this change or not. In addition, the responsible person can also identify the change into the group meeting to process.
+
+However, from some feedback in audit 2, we think "Change Request Form" is not very necessary for a team of 7 people. Thus for small changes, like the color of texture or choosing the application for model conversion, we no longer use the "Change Request Form". We just record these decisions in decision making log in order to keep track of the decisions we made. But we still keep the "Change Request Form" for big decisions, like choosing the developing tool, which can make our project more standardized.
 
 * Decision making log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l
+
+## WORK PROGRESS
+From the feedback in audit 2, tutor suggested us to have a document to show the rate of the progress of each tasks. The reason to have this document is to visualize the work we have done and the work we still need to do, also the time to completion should be included. Based on the feedback, we created a work progress file which included several parts of our project. Each part it has a description, a rate of progress and the detailed items.
+
+* Work Progress: https://drive.google.com/drive/folders/114aibWOXVej2XNXt5kSz6sESz-uZHYZu
 
 ## FEEDBACK FROM CLIENT/TUTOR
 We collected and documented the feedback from the shadow team and tutor, mainly from the audit feedback. Based on those feedback, we created some documents, linked above. The feedback reflection can be found in the next part. More details about the feedback can be find in the link.(https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
 
-## ACTING ON FEEDBACK FROM AUDIT ONE
+## ACTING ON FEEDBACK FROM AUDIT TWO
 After the first audit, some problems have been pointed by shadow team and tutor. Our team record feedback and made changes to improve our project developing process. Based on that feedback, our team made changes listed at below:
 
 ### Project output:
