@@ -73,8 +73,12 @@ Since one of the most important part of our project is the graphic performance, 
 ### Scene Layout (Zhenyu)
 The arrangement of the observatory scene should be close to the real world scene, and the harmony of these matches should be guaranteed. Thus, we selected the scenes of 11am and 7pm around the observatory and applied for Unity to construct the scenery. Up to now, our group has finished the design of tree, glass, rise and fall of the sun. In the next stage of the project, our group will try to arrange and add decorating assets in the scene. 
 
-### Trigger Making (Yu)
-In the real world, it is easy for a player to open the door, enter into the building and take the elevator to whatever levels of the floor. However, in the model, there must be a trigger to listen the player’s instructions and provide related animation. Currently, our group has implemented the door trigger. In the next stage of the project, we will add more triggers into the project.  
+### Interaction implementation (Yu)
+Yu Yang has implemented more triggers for interaction. Now users can interact with the model by keyboard. The interaction parts are as follows:
+1. Users can control the shuttle open and close.
+2. They can also interact with some doors inside the observatory.
+3. The observatory can be rotated in another direction if users want.
+4. Users can switch the inside lights.
 
 ### Model Transformation (Taizhou)
 Our group based on the “Iterative Model” to process the Model Transformation. Since we have been stuck in file renaming issue for two weeks, up to now, we only have finished the implementation of a core model. In the next stage of the project, we are supposed to concentrate on model transformation and complete it by the end of week 7. 
