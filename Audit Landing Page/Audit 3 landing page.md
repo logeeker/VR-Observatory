@@ -114,7 +114,7 @@ However, from some feedback in audit 2, we think "Change Request Form" is not ve
 ## WORK PROGRESS
 From the feedback in audit 2, tutor suggested us to have a document to show the rate of the progress of each tasks. The reason to have this document is to visualize the work we have done and the work we still need to do, also the time to completion should be included. Based on the feedback, we created a work progress file which included several parts of our project. Each part it has a description, a rate of progress and the detailed items.
 
-* Work Progress: https://drive.google.com/drive/folders/114aibWOXVej2XNXt5kSz6sESz-uZHYZu
+* Work Progress: https://docs.google.com/document/d/1ZjBEWjGe1PZEZTK4V8xZ3Bw7H1oxQY-zYsl3a8D_7Yk/edit
 
 ## FEEDBACK FROM CLIENT/TUTOR
 We collected and documented the feedback from the shadow team and tutor, mainly from the audit feedback. Based on those feedback, we created some documents, linked above. The feedback reflection can be found in the next part. More details about the feedback can be find in the link.(https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI)
