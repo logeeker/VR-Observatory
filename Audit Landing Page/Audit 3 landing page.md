@@ -81,7 +81,7 @@ One of the most important components of our project is the telescope. The telesc
 Our client required us to add some animations to the models, like the opening and closing of the door. By the end of week 9, Lifu has implemented animations of the shutter and the door. By combining the trigger with the animation, users can open the door and shutter by touching the trigger.
 
 ### Controls (Seng)
-He has been mainly working on the implementation of VR. Similar to the previous non VR version, the VR version has a flying mode with no collision detection and a walking mode with collision detection activated. Both the VR and non VR version of the controls are now integrated in the actual project with the observatory models. Other than the controls he havs also set up Unity Collaborate (it's basically version control for Unity) to speed up the development for the team.
+He has been mainly working on the implementation of VR. Similar to the previous non VR version, the VR version has a flying mode with no collision detection and a walking mode with collision detection activated. Both the VR and non VR version of the controls are now integrated in the actual project with the observatory models. Other than the controls he has also set up Unity Collaborate (it's basically version control for Unity) to speed up the development for the team.
 
 ## VALUE DELIVERED TO THE CLIENT
 
