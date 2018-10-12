@@ -94,15 +94,15 @@ He has been mainly working on the implementation of VR. Similar to the previous 
 
 ## DOCUMENTATION
 
-* Meeting minutes: https://drive.google.com/drive/folders/1oKBWNELC3S7AG890oS9v8DCupTLNOfBR
-* Changing & Decision Making Log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l
-* Feedback: https://drive.google.com/drive/folders/1E5yIg3d-5k_Wjmqf5Nhd6GIGTa_Ha3RI
-* Schedual & Task: https://drive.google.com/drive/folders/1--FPXei4-tayVnUPRBbYhAE0OBaoPdw-
-* Work Distribution: https://drive.google.com/drive/folders/1l0bR8nKL50gtQHXJxaDtsek5KaImEhcL
-* Trouble Shooting: https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM
-* Working Log: https://drive.google.com/drive/folders/1r7FeKttsb63_vF9OvEKYS0w8cvRCgsfq
-* Risk Identify: https://docs.google.com/spreadsheets/d/1VCMeprx5Luwrqnj5r75JO-bccIG-6LeEqe17zqrMJkE/edit#gid=0
-* Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit
+* Meeting minutes: https://drive.google.com/drive/folders/1oKBWNELC3S7AG890oS9v8DCupTLNOfBR?usp=sharing
+* Changing & Decision Making Log: https://drive.google.com/drive/folders/1776P_mnA7-Wi0ipBj1ftQXCaFMPazd5l?usp=sharing
+* Feedback: https://docs.google.com/document/d/1oksp-XdE3UmiErHipuf5E_InyXZC9jp6_DyAirgbG3Y/edit?usp=sharing
+* Schedual & Task: https://drive.google.com/drive/folders/1--FPXei4-tayVnUPRBbYhAE0OBaoPdw-?usp=sharing
+* Work Distribution: https://docs.google.com/document/d/1XXsPXXi1cnyj7JQd_063rteS05-5SGZM1a8oHB1HGJ0/edit?usp=sharing
+* Trouble Shooting: https://drive.google.com/drive/folders/1m3TXjq4uScbYG9tHlvmZAO0d2g0eN8dM?usp=sharing
+* Working Log: https://drive.google.com/drive/folders/1kVoC0xX3ecMd9PkQ1O9YZVojlorRQ1va?usp=sharing
+* Risk Identify: https://docs.google.com/spreadsheets/d/1VCMeprx5Luwrqnj5r75JO-bccIG-6LeEqe17zqrMJkE/edit?usp=sharing
+* Developing Guidence Handbook: https://docs.google.com/document/d/1b-LKgApiEaLc9_Oi43MBGmVRToHIzsCwrjwGGQ229qo/edit?usp=sharing
 
 ## DECISION MAKING PROCESS
 Our old decision making process is based on “Change Request Form”. Each time when some team members want to make certain changes, they are supposed to follow the instructions of “Change Request Form” to submit an application to the relevant person in charge (e.g. if the issue is about model processing, the responsible person is the leader of model processing). Then, the leader will decide to process this change or not. In addition, the responsible person can also identify the change into the group meeting to process.
